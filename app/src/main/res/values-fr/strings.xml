@@ -630,8 +630,9 @@
     <string name="liquid_glass_style_transparent_desc">Teinte translucide simple. Rien n\'est capturé ou flouté, son coût est donc quasi nul.</string>
     <string name="liquid_glass_puck_color">Couleur de la pastille de sélection</string>
     <string name="liquid_glass_puck_color_desc">Teinte appliquée sur la pastille de l'onglet sélectionné. La réinitialisation suit le thème.</string>
-    <string name="liquid_glass_puck_opacity">Opacité de la pastille de sélection</string>
-    <string name="liquid_glass_puck_opacity_desc">Intensité de cette teinte au repos. Elle s\'efface lors de l\'appui.</string>
+    <string name="liquid_glass_puck_color_desc">Teinte appliquée sur la pastille de &#39;onglet sélectionné. La réinitialisation suit le thème.</string>
+    <string name="queue_replaced_message">File d&#39;attente remplacée</string>
+
 
     <!-- App icon -->
     <string name="app_icon">Icône de l\'application</string>
