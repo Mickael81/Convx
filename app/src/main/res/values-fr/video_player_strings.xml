@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="video_unavailable">Impossible de charger la vidéo</string>
+    <string name="video_unavailable">La vidéo n\'a pas pu être chargée</string>
     <string name="video_retry">Réessayer la vidéo</string>
     <string name="video_watch">Regarder la vidéo</string>
-    <string name="video_close">Retourner à l\'illustration</string>
+    <string name="video_close">Revenir à la pochette</string>
     <string name="video_fullscreen">Vidéo en plein écran</string>
     <string name="video_exit_fullscreen">Quitter le plein écran</string>
     <string name="video_play">Lecture</string>
@@ -14,8 +13,8 @@
     <string name="video_seek_forward">Avancer de 10 secondes</string>
     <string name="video_seek">Position de lecture</string>
     <string name="video_volume">Volume</string>
-    <string name="video_more">Options de la vidéo</string>
-    <string name="video_fit">Ajuster à l\'écran</string>
+    <string name="video_more">Options vidéo</string>
+    <string name="video_fit">Ajuster la vidéo</string>
     <string name="video_fill">Remplir l\'écran</string>
-    <string name="video_picture_in_picture">Image dans l\'image (PiP)</string>
+    <string name="video_picture_in_picture">Immersion / Picture-in-picture</string>
 </resources>
