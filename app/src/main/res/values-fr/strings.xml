@@ -90,7 +90,7 @@
     <string name="most_played_artists">Artistes les plus écoutés</string>
     <string name="most_played_albums">Albums les plus écoutés</string>
 
-        <!-- Search -->
+    <!-- Search -->
     <string name="search">Rechercher</string>
     <string name="search_yt_music">Rechercher sur YouTube Music…</string>
     <string name="search_library">Rechercher dans la bibliothèque…</string>
@@ -109,7 +109,7 @@
     <string name="filter_bookmarked">Favoris enregistrés</string>
     <string name="no_results_found">Aucun résultat trouvé</string>
 
-    <!-- Library -->
+        <!-- Library -->
     <string name="library_song_empty">Les titres de la bibliothèque apparaîtront ici</string>
     <string name="library_artist_empty">Les artistes de la bibliothèque apparaîtront ici</string>
     <string name="library_album_empty">Les albums de la bibliothèque apparaîtront ici</string>
@@ -190,7 +190,7 @@
     <string name="advanced_settings_desc">Réglages pour utilisateurs expérimentés inutiles pour la plupart des gens</string>
     <string name="tempo_and_pitch">Tempo et hauteur</string>
 
-    <!-- Sort menu -->
+        <!-- Sort menu -->
     <string name="client_probe">Tester les clients de flux</string>
     <string name="client_probe_desc">Vérifier quels clients YouTube peuvent encore renvoyer un flux lisible</string>
     <string name="client_probe_running">Test des clients un par un. Veuillez patienter.</string>
@@ -330,45 +330,45 @@
     <string name="playlist_synced">Playlist synchronisée</string>
     <string name="playlist_created">Playlist créée</string>
     <string name="playlist_creation_failed">Impossible de créer la playlist. Réessayez.</string>
-    <string name="player_theme_colour_mesh">Maillage de couleurs</string>
-    <string name="lyrics_animation_karaoke_apple">Karaoké (Apple)</string>
+    <string name="player_theme_colour_mesh">Filet de couleurs</string>
+    <string name="lyrics_animation_karaoke_apple">Karaoke (Apple)</string>
     <string name="karaoke_vocal_reduction">Réduction vocale</string>
     <string name="playlist_created_sync_failed">Playlist créée, mais la synchronisation avec YouTube Music a échoué</string>
 
     <!-- Queue conflict -->
-    <string name="queue_conflict_title">Quelque chose est déjà en cours de lecture</string>
-    <string name="queue_conflict_message">Conserver la file d'attente actuelle et ajouter ceci à la fin, ou l'effacer et lancer la lecture maintenant ?</string>
-    <string name="queue_conflict_keep">Conserver la file d'attente</string>
+    <string name="queue_conflict_title">Lecture en cours</string>
+    <string name="queue_conflict_message">Conserver la file d\'attente actuelle et ajouter ceci à la fin, ou l\'effacer et lancer la lecture ?</string>
+    <string name="queue_conflict_keep">Conserver la file d\'attente</string>
     <string name="queue_conflict_replace">Effacer et lire</string>
-    <string name="ask_before_replacing_queue">Demander avant de remplacer la file d'attente</string>
-    <string name="ask_before_replacing_queue_desc">Lorsqu'un média est déjà en cours de lecture, choisir s'il faut conserver ou effacer la file d'attente</string>
+    <string name="ask_before_replacing_queue">Demander avant de remplacer la file d\'attente</string>
+    <string name="ask_before_replacing_queue_desc">Lorsqu\'une lecture est en cours, choisir s\'il faut conserver ou effacer la file d\'attente</string>
     <string name="queue_replaced_message">File d'attente remplacée</string>
     <string name="undo">Annuler</string>
 
-    <!-- Player -->
+        <!-- Player -->
     <string name="lyrics_not_found">Paroles introuvables</string>
     <string name="sleep_timer">Minuteur de mise en veille</string>
-    <string name="end_of_song">Fin de la chanson</string>
+    <string name="end_of_song">Fin du titre</string>
     <plurals name="minute">
         <item quantity="one">1 minute</item>
         <item quantity="other">%d minutes</item>
     </plurals>
     <string name="error_no_stream">Aucun flux disponible</string>
     <string name="error_no_internet">Aucune connexion réseau</string>
-    <string name="error_timeout">Délai d'attente dépassé</string>
+    <string name="error_timeout">Délai dépassé</string>
     <string name="error_unknown">Erreur inconnue</string>
-    <string name="lossless_fallback_to_standard_audio">Sans perte (Lossless) indisponible, basculement sur l'audio standard</string>
+    <string name="lossless_fallback_to_standard_audio">Sans perte indisponible, passage à l\'audio standard</string>
 
     <!-- Player action -->
-    <string name="action_like">J'aime</string>
+    <string name="action_like">J\'aime</string>
     <string name="action_like_all">Tout aimer</string>
-    <string name="action_remove_like">Retirer des J'aime</string>
-    <string name="action_remove_like_all">Retirer tous les J'aime</string>
+    <string name="action_remove_like">Retirer des J\'aime</string>
+    <string name="action_remove_like_all">Retirer tous les J\'aime</string>
     <string name="action_shuffle_on">Lecture aléatoire activée</string>
     <string name="action_shuffle_off">Lecture aléatoire désactivée</string>
     <string name="repeat_mode_off">Mode répétition désactivé</string>
     <string name="repeat_mode_one">Répéter le titre actuel</string>
-    <string name="repeat_mode_all">Répéter la file d'attente</string>
+    <string name="repeat_mode_all">Répéter la file d\'attente</string>
 
     <!-- Queue Title -->
     <string name="queue_all_songs">Tous les titres</string>
@@ -379,14 +379,14 @@
 
     <!-- Settings -->
     <string name="settings">Paramètres</string>
-    <string name="change_card_image">Modifier l'image</string>
+    <string name="change_card_image">Modifier l\'image</string>
     <string name="use_custom_image">Utiliser une image personnalisée</string>
-    <string name="use_first_song_image">Utiliser l'image du premier titre</string>
+    <string name="use_first_song_image">Utiliser l\'image du premier titre</string>
     <string name="appearance">Apparence</string>
     <string name="theme">Thème</string>
-    <string name="theme_desc">Personnaliser le thème de l'application</string>
+    <string name="theme_desc">Personnaliser le thème de l\'application</string>
     <string name="apple_music_ui">Interface Apple Music</string>
-    <string name="apple_music_ui_desc">Style verre liquide iOS 26 : barre de navigation en verre flottante et icônes d'onglets</string>
+    <string name="apple_music_ui_desc">Style verre liquide iOS 26 : barre de navigation et icônes d\'onglets flottantes</string>
     <string name="theme_colors">Thème &amp; Couleurs</string>
     <string name="theme_mode">Mode du thème</string>
     <string name="color_palette">Palette de couleurs</string>
@@ -403,34 +403,34 @@
     <string name="lyrics_text_position">Position du texte des paroles</string>
     <string name="sided">Sur les côtés</string>
     <string name="left">Gauche</string>
-    <string name="center">Centré</string>
+    <string name="center">Centre</string>
     <string name="right">Droite</string>
     <string name="player_slider_style">Style du curseur du lecteur</string>
     <string name="default_">Par défaut</string>
     <string name="apple_music">Apple Music</string>
     <string name="squiggly">Ondulé</string>
     <string name="misc">Divers</string>
-    <string name="default_open_tab">Onglet d'ouverture par défaut</string>
+    <string name="default_open_tab">Onglet d\'ouverture par défaut</string>
     <string name="grid_cell_size">Taille des cellules de la grille</string>
-    <string name="small">Petite</string>
-    <string name="big">Grande</string>
+    <string name="small">Petit</string>
+    <string name="big">Grand</string>
     <string name="grid_and_cards">Grille &amp; cartes</string>
     <string name="grid_columns">Colonnes de la grille</string>
-    <string name="grid_columns_desc">Nombre de colonnes pour les grilles de la bibliothèque, de la recherche et du parcours</string>
+    <string name="grid_columns_desc">Nombre de colonnes pour les grilles de la bibliothèque, de la recherche et de la navigation</string>
     <string name="grid_card_height">Hauteur des cartes</string>
     <string name="grid_spacing">Espacement de la grille</string>
-    <string name="speed_dial_columns">Colonnes des raccourcis rapides</string>
+    <string name="speed_dial_columns">Colonnes d\'accès rapide</string>
     <string name="home_hero_card_height">Hauteur de la carte principale</string>
     <string name="home_hero_card">Carte principale</string>
-    <string name="home_hero_card_desc">Afficher la grande carte en vedette en haut de l'écran d'accueil</string>
-    <string name="home_grid_columns">Colonnes de la grille d'accueil</string>
-    <string name="speed_dial_card_height">Hauteur des cartes de raccourcis rapides</string>
-    <string name="home_card_corner_radius">Rayon des coins des cartes d'accueil</string>
-    <string name="auto">Auto</string>
+    <string name="home_hero_card_desc">Afficher la grande carte en vedette en haut de l\'accueil</string>
+    <string name="home_grid_columns">Colonnes de la grille d\'accueil</string>
+    <string name="speed_dial_card_height">Hauteur des cartes d\'accès rapide</string>
+    <string name="home_card_corner_radius">Rayon des coins des cartes de l\'accueil</string>
+    <string name="auto">Automatique</string>
     <string name="pure_black">Noir pur (AMOLED)</string>
-    <string name="pure_black_desc">Vrais arriérés noirs au lieu de gris foncé, idéal sur les écrans OLED</string>
+    <string name="pure_black_desc">Arrière-plans noir pur au lieu de gris foncé, idéal sur les écrans OLED</string>
     <string name="pure_black_hero_background">Arrière-plans noir pur</string>
-    <string name="pure_black_hero_background_desc">Noir uni au lieu d'une pochette floutée sur les écrans Artiste, Album, Playlist et Recherche</string>
+    <string name="pure_black_hero_background_desc">Noir uni au lieu d\'une pochette floutée sur l\'artiste, l\'album, la playlist et la recherche</string>
     <string name="reduce_dynamic_blur">Réduire le flou dynamique</string>
     <string name="top_bar_blur_style">Flou de la barre supérieure</string>
     <string name="dj_reverb_type">Réverbération</string>
@@ -441,18 +441,18 @@
     <string name="dj_reverb_hall">Salle</string>
     <string name="dj_delay_stereo">Stéréo</string>
     <string name="dj_delay_ping_pong">Ping-pong</string>
-    <string name="dj_delay_tape">Bande magnétique</string>
+    <string name="dj_delay_tape">Bande</string>
     <string name="dj_delay_filtered">Écho filtré</string>
-    <string name="dj_delay_slapback">Slapback</string>
+    <string name="dj_delay_slapback">Écho court (Slapback)</string>
     <string name="dj_effect_programs_desc">Le mode automatique fait varier le son entre les transitions. Choisissez un type pour conserver son caractère.</string>
     <string name="dj_bit_perfect_note">Désactivez la sortie bit-perfect pour utiliser les transitions entre les titres.</string>
     <string name="top_bar_blur_single_pass">Passe unique (recommandé)</string>
-    <string name="top_bar_blur_haze_progressive">Brume progressive</string>
-    <string name="reduce_dynamic_blur_desc">Remplacer le flou en direct (mélange Haze et flou supérieur) par une couleur unie sur les écrans principaux pour les appareils peu puissants</string>
+    <string name="top_bar_blur_haze_progressive">Voile progressif</string>
+    <string name="reduce_dynamic_blur_desc">Remplacer le flou en direct (mélange de voile et flou supérieur) par une couleur unie sur les écrans principaux pour les appareils peu puissants</string>
     <string name="theme_packs">Packs de thèmes</string>
-    <string name="theme_pack_save_current">Enregistrer le thème actuel comme nouveau thème</string>
+    <string name="theme_pack_save_current">Enregistrer le thème actuel comme nouveau</string>
     <string name="theme_pack_import">Importer un thème depuis un fichier</string>
-    <string name="theme_pack_apply_hint">Appuyer pour appliquer · exporter ou supprimer sur la droite</string>
+    <string name="theme_pack_apply_hint">Appuyer pour appliquer · exporter ou supprimer à droite</string>
     <string name="theme_pack_name">Nom du thème</string>
     <string name="theme_pack_imported">Thème importé</string>
     <string name="theme_pack_import_failed">Impossible de lire ce fichier de thème</string>
@@ -461,14 +461,14 @@
     <string name="theme_pack_apply_button">Appliquer</string>
     <string name="theme_category_colors">Couleurs (accentuation + thème dynamique)</string>
     <string name="theme_category_pure_black">Arrière-plan noir pur</string>
-    <string name="theme_category_grid_sizing">Taille des grilles &amp; cartes</string>
+    <string name="theme_category_grid_sizing">Taille des grilles et cartes</string>
     <string name="theme_category_font">Police</string>
-    <string name="theme_category_library_background">Style d'arrière-plan de la bibliothèque</string>
-    <string name="theme_category_home_background">Arrière-plan de l'accueil (image, flou, obscurcissement)</string>
-    <string name="home_background_video_set">Vidéo définie</string>
-    <string name="home_background_video_warning">Les arrière-plans vidéo décodent chaque image, contrairement à une image fixe — cela peut consommer plus de batterie et saccader sur les appareils d'entrée de gamme. Continuer ?</string>
+    <string name="theme_category_library_background">Style d\'arrière-plan de la bibliothèque</string>
+    <string name="theme_category_home_background">Arrière-plan de l\'accueil (image, flou, assombrissement)</string>
+    <string name="home_background_video_set">Définir une vidéo</string>
+    <string name="home_background_video_warning">Les arrière-plans vidéo décode chaque image, contrairement à une image fixe — cela peut consommer plus de batterie et saccader sur les appareils d\'entrée de gamme. Continuer ?</string>
     <string name="home_background_video_confirm">Utiliser cette vidéo</string>
-    <string name="home_background_too_large">Ce fichier est trop volumineux (max %1$s). Veuillez en choisir un plus petit.</string>
+    <string name="home_background_too_large">Ce fichier est trop volumineux (max %1$s). Choisissez-en un plus petit.</string>
 
         <string name="content">Contenu</string>
     <string name="action_logout">Se déconnecter</string>
@@ -478,23 +478,23 @@
     <string name="switch_channel_switched_title">Changement effectué — vous pouvez revenir en arrière</string>
     <string name="switch_channel_success">Chaîne changée</string>
     <string name="switch_channel_action">Changer de chaîne YouTube</string>
-    <string name="switch_channel_action_desc">Utiliser une autre chaîne de votre compte Google pour la bibliothèque, les J'aime et les playlists</string>
+    <string name="switch_channel_action_desc">Utiliser une autre chaîne de votre compte Google pour la bibliothèque, les j\'aime et les playlists</string>
     <string name="choose_channel_title">Choisir une chaîne</string>
     <string name="choose_channel_subtitle">Ce compte Google possède plusieurs chaînes YouTube</string>
     <string name="saved_accounts_title">Comptes</string>
-    <string name="saved_accounts_desc">Appuyez pour basculer — aucune reconnexion requise</string>
+    <string name="saved_accounts_desc">Appuyez pour changer — pas besoin de se reconnecter</string>
     <string name="show_audio_quality_badge">Afficher le badge de qualité audio</string>
-    <string name="mini_player_waveform">Barre de progression en forme d'onde sur le mini-lecteur</string>
+    <string name="mini_player_waveform">Barre de recherche avec forme d\'onde dans le mini-lecteur</string>
     <string name="mini_bar_tab_style">Mini-barre multi-icônes</string>
-    <string name="mini_bar_tab_style_desc">Afficher toute la ligne de lecture (aléatoire, préc, lecture, suiv, répétition, paroles, file d'attente) au lieu de l'apparence simple miniature/barre de progression/lecture/avance</string>
+    <string name="mini_bar_tab_style_desc">Afficher toute la ligne de lecture (aléatoire, préc, lecture, suiv, répéter, paroles, file d\'attente) au lieu du style simple miniature / barre de recherche / lecture / avance</string>
     <string name="nav_bar_melt_transition">Transition de fusion de la barre de navigation</string>
-    <string name="nav_bar_melt_transition_desc">Transformer la barre entre l'état réduit et étendu avec un mélange fluide. Désactivé, utilise un fondu simple — moins exigeant pour le GPU</string>
+    <string name="nav_bar_melt_transition_desc">Transformer la barre entre réduit et étendu avec un fondu fluide. Désactivé, utilise un simple fondu — moins gourmand en GPU</string>
     <string name="not_logged_in">Non connecté</string>
     <string name="login_failed">Échec de la connexion</string>
 
-    <string name="content_language">Langue de contenu par défaut</string>
-    <string name="content_country">Pays de contenu par défaut</string>
-    <string name="system_default">Par défaut (système)</string>
+    <string name="content_language">Langue du contenu par défaut</string>
+    <string name="content_country">Pays du contenu par défaut</string>
+    <string name="system_default">Par défaut du système</string>
     <string name="enable_proxy">Activer le proxy</string>
     <string name="proxy_type">Type de proxy</string>
     <string name="proxy_url">URL du proxy</string>
@@ -507,51 +507,51 @@
     <string name="ip_version_ipv4">IPv4 forcée</string>
     <string name="ip_version_ipv6">IPv6 forcée</string>
     <string name="audio_quality_auto">Auto</string>
-    <string name="audio_quality_high">Élevée</string>
-    <string name="audio_quality_low">Faible</string>
+    <string name="audio_quality_high">Haute</string>
+    <string name="audio_quality_low">Basse</string>
     <string name="audio_quality_lossless">Sans perte (Lossless)</string>
-    <string name="queue">File d'attente</string>
-    <string name="persistent_queue">File d'attente persistante</string>
-    <string name="persistent_queue_desc">Restaurer votre dernière file d'attente au démarrage de l'application</string>
-    <string name="auto_load_more">Charger plus de chansons automatiquement</string>
-    <string name="auto_load_more_desc">Ajouter automatiquement d'autres chansons à la fin de la file d'attente si possible</string>
-    <string name="skip_silence">Ignorer les blancs</string>
+    <string name="queue">File d\'attente</string>
+    <string name="persistent_queue">File d\'attente persistante</string>
+    <string name="persistent_queue_desc">Restaurer votre dernière file d\'attente au démarrage de l\'application</string>
+    <string name="auto_load_more">Charger plus de titres automatiquement</string>
+    <string name="auto_load_more_desc">Ajouter automatiquement d\'autres titres lorsque la fin de la file d\'attente est atteinte, si possible</string>
+    <string name="skip_silence">Ignorer les silences</string>
     <string name="audio_normalization">Normalisation audio</string>
-    <string name="auto_skip_next_on_error">Passer automatiquement au titre suivant en cas d'erreur</string>
-    <string name="auto_skip_next_on_error_desc">Garantir une expérience d'écoute continue</string>
-    <string name="stop_music_on_task_clear">Arrêter la musique lors de la fermeture de l'application</string>
+    <string name="auto_skip_next_on_error">Passer automatiquement au titre suivant en cas d\'erreur</string>
+    <string name="auto_skip_next_on_error_desc">Garantir une expérience de lecture continue</string>
+    <string name="stop_music_on_task_clear">Arrêter la musique lors de la fermeture de l\'application</string>
     <string name="equalizer">Égaliseur</string>
     <string name="home_category_load_failed">Impossible de charger cette catégorie. Veuillez réessayer.</string>
 
     <string name="storage">Stockage</string>
     <string name="cache">Cache</string>
     <string name="image_cache">Cache des images</string>
-    <string name="song_cache">Cache des chansons</string>
+    <string name="song_cache">Cache des titres</string>
     <string name="max_cache_size">Taille maximale du cache</string>
     <string name="unlimited">Illimitée</string>
     <string name="clear_all_downloads">Effacer tous les téléchargements</string>
-    <string name="max_image_cache_size">Taille max. du cache d'images</string>
-    <string name="clear_image_cache">Effacer le cache des images</string>
-    <string name="max_song_cache_size">Taille max. du cache de chansons</string>
-    <string name="clear_song_cache">Effacer le cache des chansons</string>
+    <string name="max_image_cache_size">Taille max. du cache d\'images</string>
+    <string name="clear_image_cache">Effacer le cache d\'images</string>
+    <string name="max_song_cache_size">Taille max. du cache de titres</string>
+    <string name="clear_song_cache">Effacer le cache de titres</string>
     <string name="size_used">%s utilisés</string>
 
     <string name="clear_downloaded_updates">Effacer les mises à jour téléchargées</string>
-    <string name="clear_downloaded_updates_desc">Supprimer les fichiers APK téléchargés pour libérer de l'espace</string>
+    <string name="clear_downloaded_updates_desc">Supprimer les fichiers APK téléchargés pour libérer de l\'espace</string>
 
-        <string name="privacy">Confidentialité</string>
+    <string name="privacy">Confidentialité</string>
     <string name="listen_history">Historique d\'écoute</string>
-    <string name="pause_listen_history">Suspendre l\'historique d\'écoute</string>
+    <string name="pause_listen_history">Mettre en pause l\'historique d\'écoute</string>
     <string name="clear_listen_history">Effacer l\'historique d\'écoute</string>
     <string name="clear_listen_history_confirm">Voulez-vous vraiment effacer tout l\'historique d\'écoute ?</string>
     <string name="search_history">Historique de recherche</string>
-    <string name="recently_searched">Récemment recherché</string>
+    <string name="recently_searched">Recherches récentes</string>
     <string name="clear_recent_searches">Effacer</string>
-    <string name="pause_search_history">Suspendre l\'historique de recherche</string>
+    <string name="pause_search_history">Mettre en pause l\'historique de recherche</string>
     <string name="clear_search_history">Effacer l\'historique de recherche</string>
     <string name="clear_search_history_confirm">Voulez-vous vraiment effacer tout l\'historique de recherche ?</string>
-    <string name="use_login_for_browse">Utiliser le compte pour la navigation</string>
-    <string name="use_login_for_browse_desc">Cela peut influencer le contenu affiché et montre par exemple des albums réservés aux abonnés si vous êtes connecté avec un compte Premium</string>
+    <string name="use_login_for_browse">Utiliser la connexion pour parcourir le contenu</string>
+    <string name="use_login_for_browse_desc">Cela peut influencer le contenu affiché et, par exemple, afficher les albums réservés aux abonnés Premium si vous êtes connecté avec un compte Premium</string>
     <string name="disable_screenshot">Désactiver les captures d\'écran</string>
     <string name="disable_screenshot_desc">Lorsque cette option est activée, les captures d\'écran et l\'aperçu de l\'application dans les applications récentes sont désactivés.</string>
     <string name="enable_lrclib">Activer le fournisseur de paroles LrcLib</string>
@@ -560,18 +560,18 @@
 
     <string name="backup_restore">Sauvegarde et restauration</string>
     <string name="action_backup">Sauvegarder</string>
-    <string name="action_restore">Ressusciter / Restaurer</string>
+    <string name="action_restore">Restaurer</string>
     <string name="imported_playlist">Playlist importée</string>
     <string name="backup_create_success">Sauvegarde créée avec succès</string>
     <string name="backup_create_failed">Impossible de créer la sauvegarde</string>
     <string name="restore_failed">Échec de la restauration de la sauvegarde</string>
 
     <string name="discord_integration">Intégration Discord</string>
-    <string name="discord_information">Convx utilise la bibliothèque KizzyRPC pour définir le statut de votre compte Discord. Cela implique l\'utilisation de la connexion Gateway de Discord, ce qui peut être considéré comme une violation des CGU de Discord. Cependant, aucun cas de suspension de compte n\'a été signalé pour cette raison. À utiliser à vos risques et périls.\n\nConvx extrait uniquement votre jeton, et tout le reste est stocké localement.</string>
+    <string name="discord_information">Convx utilise la bibliothèque KizzyRPC pour définir le statut de votre compte Discord. Cela implique l\'utilisation d\'une connexion à la passerelle Discord, ce qui peut être considéré comme une violation des conditions d\'utilisation de Discord. Cependant, aucun cas de suspension de compte utilisateur n\'est connu pour cette raison. Utilisez à vos risques et périls.\n\nConvx extrait uniquement votre jeton, tout le reste est stocké localement.</string>
     <string name="dismiss">Ignorer</string>
     <string name="options">Options</string>
     <string name="preview">Aperçu</string>
-    <string name="enable_discord_rpc">Activer Rich Presence</string>
+    <string name="enable_discord_rpc">Activer le statut riche (Rich Presence)</string>
 
     <string name="about">À propos</string>
     <string name="app_version">Version de l\'application</string>
@@ -582,65 +582,65 @@
     <string name="bluetooth_permission_required">L\'autorisation Bluetooth est requise pour découvrir les appareils audio.</string>
     <string name="streaming_to">Diffusion vers</string>
     <string name="this_phone">Ce téléphone</string>
-    <string name="wired_headphones">Casque filaire</string>
+    <string name="wired_headphones">Écouteurs filaires</string>
     <string name="hdmi">HDMI</string>
     <string name="phone_speaker">Haut-parleur du téléphone</string>
     <string name="audio_quality_title">Qualité audio</string>
     <string name="battery_content_desc">Niveau de batterie</string>
     <string name="done">Terminé</string>
     <string name="audio_devices">Appareils audio</string>
-    <string name="bluetooth_headphones">Casque Bluetooth</string>
-    <string name="license">Licence Publique Générale GNU v3.0</string>
-    <string name="standard_lyrics_blur">Flou standard des paroles</string>
+    <string name="bluetooth_headphones">Écouteurs Bluetooth</string>
+    <string name="license">Licence publique générale GNU v3.0</string>
+    <string name="standard_lyrics_blur">Flou des paroles standard</string>
     <string name="listen_together_smart_resync">Resynchronisation réseau intelligente</string>
-    <string name="listen_together_smart_resync_desc">Rattraper automatiquement l\'hôte après une perte de connexion</string>
-    <string name="listen_together_host_controls">L\'hôte contrôle la lecture dans cette session</string>
+    <string name="listen_together_smart_resync_desc">Rattraper automatiquement l\'hôte après une coupure de connexion</string>
+    <string name="listen_together_host_controls">L\'hôte contrôle la lecture de cette session</string>
     <string name="listen_together_locked">L\'hôte contrôle la lecture</string>
 
-    <!-- JioSaavn Streaming -->
+        <!-- JioSaavn Streaming -->
     <string name="enable_saavn_streaming">Activer le streaming JioSaavn</string>
-    <string name="enable_saavn_streaming_desc">Diffuser l\'audio depuis JioSaavn au lieu de YouTube Music (bascule sur YT si indisponible)</string>
+    <string name="enable_saavn_streaming_desc">Diffuser l\'audio depuis JioSaavn au lieu de YouTube Music (revient à YouTube si non disponible)</string>
     <string name="saavn_audio_quality">Qualité audio JioSaavn</string>
     <string name="retry_stream">Réessayer le flux</string>
-    <string name="retry_stream_desc_saavn">Récupérer à nouveau depuis JioSaavn à 320 kbps</string>
+    <string name="retry_stream_desc_saavn">Récupérer à nouveau depuis JioSaavn en 320 kbps</string>
     <string name="retry_stream_desc_yt">Récupérer à nouveau depuis YouTube Music</string>
 
     <!-- Dynamic Search Prompts -->
     <string name="search_prompt_whats_on_mind">Qu\'avez-vous en tête ?</string>
     <string name="search_prompt_todays_pick">Quelle est la sélection du jour ?</string>
-    <string name="search_prompt_trending">Rechercher les succès du moment…</string>
-    <string name="search_prompt_vibe">Envie d\'une ambiance particulière ? Recherchez une atmosphère…</string>
-    <string name="search_prompt_songs_artists">Rechercher des titres, artistes, albums…</string>
-    <string name="search_prompt_template_song">Rechercher « %s »…</string>
-    <string name="search_prompt_template_song_try">Essayez de rechercher « %s »…</string>
-    <string name="search_prompt_template_artist">Rechercher l\'artiste « %s »…</string>
-    <string name="enable_settings_popup">Activer le menu rapide des paramètres</string>
-    <string name="enable_settings_popup_desc">Afficher une fenêtre contextuelle de réglages rapides en appuyant sur le bouton des paramètres au lieu de les ouvrir directement</string>
-    <string name="liquid_glass_highlight_color">Couleur du reflet</string>
-    <string name="liquid_glass_highlight_color_desc">Couleur du contour spéculaire le long du bord des surfaces en verre</string>
-    <string name="liquid_glass_highlight_opacity">Opacité du reflet</string>
-    <string name="liquid_glass_highlight_opacity_desc">Luminosité du contour spéculaire</string>
+    <string name="search_prompt_trending">Rechercher les tendances…</string>
+    <string name="search_prompt_vibe">Vous avez de la chance ? Recherchez une ambiance…</string>
+    <string name="search_prompt_songs_artists">Rechercher des chansons, artistes, albums…</string>
+    <string name="search_prompt_template_song">Rechercher \"%s\"…</string>
+    <string name="search_prompt_template_song_try">Essayer de rechercher \"%s\"…</string>
+    <string name="search_prompt_template_artist">Rechercher l\'artiste \"%s\"…</string>
+    <string name="enable_settings_popup">Activer le menu contextuel des paramètres</string>
+    <string name="enable_settings_popup_desc">Afficher un menu rapide des paramètres en appuyant sur le bouton des paramètres au lieu de les ouvrir directement</string>
+    <string name="liquid_glass_highlight_color">Couleur de surbrillance</string>
+    <string name="liquid_glass_highlight_color_desc">Couleur du bord spéculaire le long du contour des surfaces en verre</string>
+    <string name="liquid_glass_highlight_opacity">Opacité de la surbrillance</string>
+    <string name="liquid_glass_highlight_opacity_desc">Luminosité apparente du bord spéculaire</string>
     <string name="liquid_glass_style">Style de verre</string>
-    <string name="liquid_glass_style_scope_desc">S\'applique uniquement à la barre de navigation et au mini-lecteur. Les autres surfaces en verre (barres supérieures, panneaux, boutons) conservent un style fixe.</string>
+    <string name="liquid_glass_style_scope_desc">S\'applique uniquement à la barre de navigation et au mini-lecteur. Les autres surfaces en verre (barres supérieures, panneaux, boutons) gardent un style de verre fixe.</string>
     <string name="liquid_glass_style_liquid">Liquide</string>
-    <string name="liquid_glass_style_liquid_desc">Flou, réfraction et bord lumineux. L\'effet complet, le plus gourmand en ressources.</string>
+    <string name="liquid_glass_style_liquid_desc">Flou, réfraction et bord lumineux. L\'effet complet, et le plus coûteux.</string>
     <string name="liquid_glass_style_blur">Flou</string>
-    <string name="liquid_glass_style_blur_desc">Flou dépoli sans réfraction ni bord lumineux. Moins gourmand.</string>
+    <string name="liquid_glass_style_blur_desc">Flou givré sans réfraction ni bord lumineux. Moins coûteux.</string>
     <string name="liquid_glass_style_transparent">Transparent</string>
-    <string name="liquid_glass_style_transparent_desc">Une simple teinte transparente. Rien n\'est capturé ni flouté, ne coûte presque rien en ressources.</string>
-    <string name="liquid_glass_puck_color">Couleur de l\'indicateur de sélection</string>
-    <string name="liquid_glass_puck_color_desc">Teinte appliquée sur l\'onglet sélectionné. La réinitialisation suit le thème.</string>
-    <string name="liquid_glass_puck_opacity">Opacité de l\'indicateur de sélection</string>
-    <string name="liquid_glass_puck_opacity_desc">Intensité de la teinte au repos. Se dissipe lors de l\'appui.</string>
+    <string name="liquid_glass_style_transparent_desc">Teinte translucide simple. Rien n\'est capturé ou flouté, son coût est donc quasi nul.</string>
+    <string name="liquid_glass_puck_color">Couleur de la pastille de sélection</string>
+    <string name="liquid_glass_puck_color_desc">Teinte appliquée sur la pastille de l'onglet sélectionné. La réinitialisation suit le thème.</string>
+    <string name="liquid_glass_puck_opacity">Opacité de la pastille de sélection</string>
+    <string name="liquid_glass_puck_opacity_desc">Intensité de cette teinte au repos. Elle s'efface lors de l'appui.</string>
 
     <!-- App icon -->
     <string name="app_icon">Icône de l\'application</string>
-    <string name="app_icon_desc">Choisissez l\'icône que Convx affiche sur votre écran d\'accueil</string>
-    <string name="app_icon_change_warning">L\'icône peut mettre quelques secondes à se mettre à jour, et certains lanceurs peuvent retirer le raccourci de votre écran d\'accueil jusqu\'à ce que vous le rajoutiez.</string>
+    <string name="app_icon_desc">Choisir l\'icône affichée par Convx sur votre écran d\'accueil</string>
+    <string name="app_icon_change_warning">La mise à jour de l\'icône peut prendre quelques secondes, et certains lanceurs suppriment le raccourci de l\'écran d\'accueil jusqu\'à ce que vous le rajoutiez.</string>
     <string name="app_icon_white">Blanc</string>
     <string name="app_icon_azure">Azur</string>
     <string name="app_icon_sky">Ciel</string>
-    <string name="app_icon_teal">Cyan foncé</string>
+    <string name="app_icon_teal">Sarcelle</string>
     <string name="app_icon_slate">Ardoise</string>
     <string name="app_icon_silver">Argent</string>
     <string name="app_icon_periwinkle">Pervenche</string>
@@ -651,34 +651,34 @@
     <string name="app_icon_copper">Cuivre</string>
     <string name="app_icon_rust">Rouille</string>
 
-        <!-- Presets / DIY -->
+    <!-- Presets / DIY -->
     <string name="presets">Préréglages</string>
-    <string name="presets_desc">Enregistrer, appliquer et partager des thèmes complets</string>
-    <string name="preset_save_current">Enregistrer le thème actuel</string>
+    <string name="presets_desc">Enregistrer, appliquer et partager des apparences complètes</string>
+    <string name="preset_save_current">Enregistrer l\'apparence actuelle</string>
     <string name="preset_name">Nom du préréglage</string>
     <string name="preset_apply">Appliquer</string>
-    <string name="preset_apply_desc">Choisissez les éléments de ce préréglage à appliquer. Tout ce que vous laissez décoché restera tel quel.</string>
+    <string name="preset_apply_desc">Choisissez les parties de ce préréglage à appliquer. Tout ce que vous laissez décoché restera tel quel.</string>
     <string name="preset_applied">Préréglage appliqué</string>
     <string name="preset_rename">Renommer</string>
     <string name="preset_share">Partager le préréglage</string>
     <string name="preset_delete">Supprimer</string>
-    <string name="preset_empty">Aucun préréglage pour le moment. Enregistrez votre thème actuel pour en créer un.</string>
+    <string name="preset_empty">Aucun préréglage pour le moment. Enregistrez votre apparence actuelle pour en créer un.</string>
     <string name="preset_imported">Préréglage importé</string>
-    <string name="preset_import_failed">Ce fichier n'est pas un préréglage valide.</string>
+    <string name="preset_import_failed">Ce fichier n\'est pas un préréglage valide.</string>
     <string name="preset_import_too_large">Ce préréglage est trop volumineux pour être importé.</string>
     <string name="preset_import_newer_version">Ce préréglage a été créé avec une version plus récente de Convx.</string>
     <string name="preset_category_colors">Couleurs</string>
-    <string name="preset_category_layout">Agencement et taille</string>
+    <string name="preset_category_layout">Mise en page et dimensions</string>
     <string name="preset_category_font">Polices</string>
     <string name="preset_category_player">Apparence du lecteur</string>
     <string name="preset_category_lyrics">Style des paroles</string>
     <string name="preset_category_glass">Verre liquide</string>
-    <string name="preset_category_background">Fonds d'écran</string>
+    <string name="preset_category_background">Fonds d\'écran</string>
     <string name="preset_category_player_icons">Icônes de lecteur personnalisées</string>
-    <string name="preset_category_diy">Stickers DIY</string>
+    <string name="preset_category_diy">Autocollants DIY</string>
 
     <string name="diy">DIY</string>
-    <string name="diy_desc">Placer des stickers, des images et des emojis sur le lecteur</string>
+    <string name="diy_desc">Placer des autocollants, des images et des emojis sur le lecteur</string>
     <string name="diy_portrait">Portrait</string>
     <string name="diy_landscape">Paysage</string>
     <string name="diy_add_image">Ajouter une image</string>
@@ -692,17 +692,17 @@
     <string name="diy_delete">Supprimer</string>
     <string name="diy_behind_artwork">Derrière la pochette</string>
     <string name="diy_above_artwork">Devant la pochette</string>
-    <string name="diy_low_resolution">Cette image est mise à l'échelle au-delà de sa propre résolution et peut paraître floue.</string>
-    <string name="diy_limit_reached">Vous pouvez placer jusqu'à %1$d stickers.</string>
-    <string name="diy_budget_reached">L'espace de stockage des stickers est plein. Supprimez un sticker pour en ajouter un autre.</string>
-    <string name="diy_cannot_add">Ajout impossible</string>
-    <string name="diy_saved">Agencement enregistré</string>
+    <string name="diy_low_resolution">Cette image est mise à l\'échelle au-delà de sa propre résolution et peut paraître floue.</string>
+    <string name="diy_limit_reached">Vous pouvez placer jusqu\'à %1$d autocollants.</string>
+    <string name="diy_budget_reached">L\'espace de stockage des autocollants est plein. Supprimez-en un pour en ajouter un autre.</string>
+    <string name="diy_cannot_add">Impossible d\'ajouter ceci</string>
+    <string name="diy_saved">Mise en page enregistrée</string>
     <string name="diy_mock_title">Titre de la chanson</string>
-    <string name="diy_mock_artist">Nom de l'artiste</string>
+    <string name="diy_mock_artist">Nom de l\'artiste</string>
 
     <string name="player_icons">Icônes de lecteur personnalisées</string>
-    <string name="player_icons_desc">Remplacez n'importe quelle commande du lecteur par votre propre image. PNG, JPEG, WebP ou SVG.</string>
-    <string name="player_icon_default">Intégrée</string>
+    <string name="player_icons_desc">Remplacer n\'importe quelle commande du lecteur par votre propre image. PNG, JPEG, WebP ou SVG.</string>
+    <string name="player_icon_default">Intégré</string>
     <string name="player_icon_custom">Image personnalisée</string>
     <string name="player_icon_tint">Teinte</string>
     <string name="player_icon_play">Lecture</string>
@@ -710,41 +710,44 @@
     <string name="player_icon_previous">Précédent</string>
     <string name="player_icon_next">Suivant</string>
     <string name="player_icon_replay">Rejouer</string>
-    <string name="player_icon_like">J'aime</string>
+    <string name="player_icon_like">J\'aime</string>
     <string name="player_icon_liked">Aimé</string>
     <string name="player_icon_more">Plus</string>
-    <string name="player_icon_seek_thumb">Poignée de la barre de progression</string>
+    <string name="player_icon_seek_thumb">Poignée de la barre de recherche</string>
 
     <string name="media_import_too_large">Ce fichier est trop volumineux.</string>
     <string name="media_import_unsupported">Seules les images PNG, JPEG, WebP et SVG sont prises en charge.</string>
-    <string name="media_import_unsafe_svg">Ce SVG utilise des fonctionnalités que Convx ne peut pas afficher.</string>
-    <string name="media_import_corrupt">Cette image n'a pas pu être lue.</string>
+    <string name="media_import_unsafe_svg">Ce SVG utilise des fonctionnalités que Convx ne peut pas rendre.</string>
+    <string name="media_import_corrupt">Impossible de lire cette image.</string>
     <string name="media_import_too_many_pixels">Cette image est trop grande pour être décodée en toute sécurité.</string>
     <string name="media_import_io">Impossible de lire ce fichier.</string>
-    <string name="preset_thumbnail_failed">Impossible de capturer une image d'aperçu. Le préréglage sera tout de même enregistré.</string>
+    <string name="preset_thumbnail_failed">Impossible de capturer une image d\'aperçu. Le préréglage sera tout de même enregistré.</string>
     <string name="diy_edit">Modifier</string>
     <string name="diy_done">Terminé</string>
     <string name="diy_undo">Annuler</string>
     <string name="diy_redo">Rétablir</string>
     <string name="diy_rotation">Rotation</string>
     <string name="diy_size">Taille</string>
-    <string name="local_permission_title">Autoriser l'accès à votre musique</string>
-    <string name="local_permission_body">Convx a besoin d'une autorisation pour lire les fichiers audio sur cet appareil afin de créer votre bibliothèque locale. Rien ne quitte votre téléphone.</string>
-    <string name="local_permission_blocked_body">L'accès a été désactivé pour Convx. Ouvrez les paramètres, puis autorisez l'accès à la musique et à l'audio pour afficher la musique de cet appareil.</string>
-    <string name="local_permission_allow">Autoriser l'accès</string>
-    <string name="local_permission_open_settings">Ouvrir les paramètres</string>
+    <string name="local_permission_title">Autoriser l\'accès à votre musique</string>
+    <string name="local_permission_body">Convx a besoin d\'une autorisation pour lire les fichiers audio sur cet appareil afin de constituer votre bibliothèque locale. Rien ne quitte votre téléphone.</string>
+    <string name="local_permission_blocked_body">L\'accès a été désactivé pour Convx. Ouvrez les Paramètres, puis autorisez Musique et audio pour voir la musique sur cet appareil.</string>
+    <string name="local_permission_allow">Autoriser l\'accès</string>
+    <string name="local_permission_open_settings">Ouvrir les Paramètres</string>
     <string name="local_empty_title">Aucune musique trouvée</string>
-    <string name="local_empty_body">Ajoutez des chansons à votre téléphone, ou lancez une nouvelle analyse si vous venez d'en copier.</string>
-    <string name="local_empty_scan">Analyser l'appareil</string>
+    <string name="local_empty_body">Ajoutez des chansons à votre téléphone, ou relancez une recherche si vous venez d\'en copier.</string>
+    <string name="local_empty_scan">Analyser l\'appareil</string>
     <string name="queue_keep_playing">Continuer la lecture</string>
     <string name="queue_crossfade">Fondu enchaîné</string>
-    <string name="song_transitions">Transitions entre les titres</string>
-    <string name="song_transitions_desc">Les débuts et fins des chansons se mélangent. Les albums et certains genres continuent de se lire sans transition.</string>
+    <string name="song_transitions">Transitions entre les chansons</string>
+    <string name="song_transitions_desc">Les débuts et fins des chansons se fondent entre eux. Les albums et certains genres continuent de se lire sans transitions.</string>
     <string name="transition_style">Style de transition</string>
     <string name="transition_automix">AutoMix</string>
-    <string name="transition_automix_desc">Les chansons effectuent une transition au moment parfait, selon l'analyse du tempo et des pulsations de la musique.</string>
-    <string name="transition_crossfade_desc">Simples transitions d'une chanson à l'autre pendant une durée définie.</string>
+    <string name="transition_automix_desc">Les chansons font la transition au moment idéal, sur la base d\'une analyse du tempo et des battements de la musique.</string>
+    <string name="transition_crossfade_desc">Transitions simples d\'une chanson à l\'autre pendant une durée définie.</string>
     <string name="transition_off">Désactivé</string>
     <string name="no_playlists">Aucune playlist</string>
     <string name="playlist_load_failed">Impossible de charger cette playlist.</string>
 </resources>
+
+
+    
