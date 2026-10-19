@@ -342,7 +342,7 @@
     <string name="queue_conflict_replace">Effacer et lire</string>
     <string name="ask_before_replacing_queue">Demander avant de remplacer la file d\'attente</string>
     <string name="ask_before_replacing_queue_desc">Lorsqu\'une lecture est en cours, choisir s\'il faut conserver ou effacer la file d\'attente</string>
-    <string name="queue_replaced_message">File d'attente remplacée</string>
+    <string name="queue_replaced_message">File d\'attente remplacée</string>
     <string name="undo">Annuler</string>
 
         <!-- Player -->
@@ -629,9 +629,7 @@
     <string name="liquid_glass_style_transparent">Transparent</string>
     <string name="liquid_glass_style_transparent_desc">Teinte translucide simple. Rien n\'est capturé ou flouté, son coût est donc quasi nul.</string>
     <string name="liquid_glass_puck_color">Couleur de la pastille de sélection</string>
-    <string name="liquid_glass_puck_color_desc">Teinte appliquée sur la pastille de l'onglet sélectionné. La réinitialisation suit le thème.</string>
-    <string name="liquid_glass_puck_color_desc">Teinte appliquée sur la pastille de &#39;onglet sélectionné. La réinitialisation suit le thème.</string>
-    <string name="queue_replaced_message">File d&#39;attente remplacée</string>
+    <string name="liquid_glass_puck_color_desc">Teinte appliquée sur la pastille de l\'onglet sélectionné. La réinitialisation suit le thème.</string>
 
 
     <!-- App icon -->
